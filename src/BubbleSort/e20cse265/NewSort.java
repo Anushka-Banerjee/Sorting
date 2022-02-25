@@ -1,6 +1,6 @@
 package BubbleSort.e20cse265;
 
-public class BubbleSort{  
+public class NewSort{  
     static void bubbleSort(int[] arr) {  
         int n = arr.length;  
         int temp = 0;  
